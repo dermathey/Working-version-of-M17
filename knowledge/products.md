@@ -35,7 +35,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Cleansers / коллекция: нет данных (`brands/hydropeptide/hydropeptide-training-guide-2024.md:387`); RU (оглавление методички): «Очищающий гель с эффектом тонизации кожи (200 мл / 354,88 мл)» (`brands/hydropeptide/hydropeptide-metodichka.md:2834`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1195`; привязка: по pH 4.0 карточки) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1195`; привязка: по pH 4.0 карточки) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water, Coco-Betaine, Sodium Cocoyl Isethionate, Lauramidopropyl Betaine, Polysorbate 20, Propanediol, Phenethyl Alcohol, Caprylyl Glcol, Caprylic/Capric Triglyceride, Cucumis Sativus (Cucumber) Fruit Extract, Arginine/Lysine Polypeptide, Leuconostoc/ Radish Root Ferment Filtrate, Ethylhexiglycerin, Menthyl Ethylamido Oxalate, Citrus Aurantium Dulcis (Orange) Peel Extract, Citrus Limon (Lemon) Peel Extract, Limonene, Lactic Acid, Allantoin, Calendula Officinalis Flower Extract, Camellia Oleifera Leaf Extract, Chamomilla Recutita Flower Extract, Geranium Maculatum Extract, Hamamelis Virginiana Leaf Extract, Magnesium Ascorbyl Phosphate, Pseudoalteromonas Exopolysaccharides, Pyrus Malus Fruit Extract, Sodium Cocoyl Hydrolyzed Amaranth Protein, Citric Acid, Sebacic Acid, Sodium Salicylate, Sorbic Acid
   - pH (из той же строки): 4.0
 - **Ключевые активы:** EN: в строке-абзаце, не разобрано — см. `brands/hydropeptide/hydropeptide-training-guide-2024.md:387`
@@ -47,7 +47,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Cleansers / коллекция: нет данных (`brands/hydropeptide/hydropeptide-training-guide-2024.md:387`); «Липофильный бальзам для деликатного демакияжа» (`brands/hydropeptide/hydropeptide-metodichka.md:1296`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1368`; привязка: по составу (масляный бальзам) и порядку на стр. 33) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1368`; привязка: по составу (масляный бальзам) и порядку на стр. 33) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Helianthus Annuus (Sunflower) Seed Oil, Polyethylene, PEG-20 Glyceryl Triisostearate, Sorbeth-30 Tetraoleate, Glycine Soja (Soybean) Seed Extract, Caprylic/Capric Triglyceride, Citrus Limon (Lemon) Peel Extract, Tocopheryl Acetate, Lavandula Angustifolia (Lavender) Extract, Citrus Aurantifolia (Lime) Peel Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Camellia Sinensis Leaf Extract, Prunus Persica (Peach) Fruit Extract, Vanilla Planifolia Fruit Extract, Citrus Aurantium Bergamia (Bergamot) Fruit Extract, Coriandrum Sativum (Coriander) Fruit/Leaf Extract, Cucumis Sativus (Cucumber) Fruit Extract, Cupressus Sempervirens Leaf/Stem Extract, Fucus Vesiculosus Extract, Jasminum Officinale (Jasmine) Flower/Leaf Extract, Plumeria Rubra Flower Extract, Pyrus Malus (Apple) Fruit Extract, Rose Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Salvia Officinalis (Sage) Leaf Extract, Butyrospermum Parkii (Shea) Butter, Cocos Nucifera (Coconut) Oil, Hydrogenated Vegetable Oil, Jojoba Oil/Macadamia Seed Oil Esters, Water, PEG-8 Caprylic/Capric Glycerides, Octyldodeceth-25, Squalene, Aloe Barbadensis Leaf Extract,Sodium Hyaluronate, Phytosteryl Macadamiate, Phytosterols, Tocopherol, Limonene, Citral, Linalool
   - pH (из той же строки): N/A
 - **Ключевые активы:** EN: в строке-абзаце, не разобрано — см. `brands/hydropeptide/hydropeptide-training-guide-2024.md:387`
@@ -59,7 +59,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Cleansers / коллекция: нет данных (`brands/hydropeptide/hydropeptide-training-guide-2024.md:387`); RU (оглавление методички): «Деликатное очищающее молочко на основе розовой воды с пептидным комплексом (200 мл / 354,88 мл)» (`brands/hydropeptide/hydropeptide-metodichka.md:2840`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1286`; привязка: по pH 6.3 карточки) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1286`; привязка: по pH 6.3 карточки) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water, Isopropyl Palmitate, Helianthus Annuus (Sunflower) Seed Oil, Isohexadecane, Glycerin, Butylene Glycol, Pentylene Glycol, Polyglyceryl-6 Distearate, Hydroxyacetophenone, Steareth-2, Steareth-21, Xanthan Gum, Citronellol, Jojoba Esters, Geraniol, Benzyl Alcohol, Allantoin, Hydrolyzed Milk Protein, Cetyl Alcohol, Polyglyceryl-3 Beeswax, Bisabolol, Rosa Damascena Flower Water, Tetrasodium Glutamate Diacetate, Citral, Fragrance, Linalool, Centella Asiatica Extract, Aloe Barbadensis Leaf Juice, Phe- noxyethanol, Sodium Hyaluronate, Glycolipids, Soybean Phytosterols
   - pH (из той же строки): 6.3
 - **Ключевые активы:** EN: в строке-абзаце, не разобрано — см. `brands/hydropeptide/hydropeptide-training-guide-2024.md:387`
@@ -93,7 +93,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Toners / коллекция: Anti-Wrinkle (`brands/hydropeptide/hydropeptide-training-guide-2024.md:415`); RU (оглавление методички): «Активизирующий тоник с мощным увлажняющим действием (200 мл / 354,88 мл)» (`brands/hydropeptide/hydropeptide-metodichka.md:2811`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:277`; привязка: по pH 4.0 карточки и составу (культура клеток апельсина)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:277`; привязка: по pH 4.0 карточки и составу (культура клеток апельсина)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water, Polysorbate 20, Glycerin, Propanediol, Phenethyl Alcohol, Citrus Aurantium Dulcis (Orange) Callus Culture Extract, Xanthan Gum, Caprylyl Glycol, Menthyl Ethylamido Oxalate, Leuconostoc/Radish Root Ferment Filtrate, Ethylhexylglycerin, Caprylic/Capric Triglyceride, Limonene, Arctostaphylos UVA Ursi Leaf Extract, Cucumis Sativus (Cucumber) Fruit Extract, Magnesium Ascorbyl Phosphate, Lactic Acid, Acetyl Hexapeptide-30, Arginine, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Citrus Limon (Lemon) Peel Extract, Gardenia Tahitensis Flower Extract, Acer Saccharum Extract, Citrus Aurantium Dulcis Fruit Extract, Saccharum Officinarum Extract, Vaccinium Myrtillus Fruit/Leaf Extract, Allantoin, Camellia Oleifera Leaf Extract, Chamomilla Recutita Flower Extract, Geranium Maculatum Extract, Glycyrrhiza Glabra Root Extract, Hyrolyzed Soy Protein, Morus Alba Leaf Extract, Sodium Hyaluronate, Arginine/Lysine Polypeptide, Citral, Hydroxycitronellal, Pseudoalteromonas Exopolysaccharides, Citric Acid, Sodium Salicylate, Sorbic Acid
   - pH (из той же строки): 4
 - **Ключевые активы:** EN: Wrinkle-Relaxing Peptides line refinement Collagen-Supporting Peptides elasticity enhancement Hyadisine Solution hydration & balancing support (`brands/hydropeptide/hydropeptide-training-guide-2024.md:423`); texture: Liquid
@@ -142,9 +142,10 @@
 - **Ограничения:** противопоказания — см. `knowledge/contraindications.md`, раздел «Polish & Plump Peel»
 - **Источник:** `brands/hydropeptide/hydropeptide-training-guide-2024.md:506`
 
-### 5X Power Peel
+### 5X Power Peel — домашние салфетки
 
 - **Бренд:** HydroPeptide
+- **Форма:** домашние салфетки. Карточка `brands/hydropeptide/hydropeptide-metodichka.md:326` (стр. PDF 12) — «Экстра-омолаживающий домашний пилинг в форме готовых к использованию салфеток» (`brands/hydropeptide/hydropeptide-metodichka.md:330`); в `metodichka-s-protokolami.md` — «1,4 мл * 30 салфеток в индивидуальной упаковке (розница)» (`brands/hydropeptide/metodichka-s-protokolami.md:420`); Training Guide — «Retail Size 30 Individually Wrapped Treatment Pads» (`brands/hydropeptide/hydropeptide-training-guide-2024.md:452`). **Состав и данные этой карточки на профессиональную форму не переносить.**
 - **Тип:** Exfoliators & Peels / коллекция: Brighten (`brands/hydropeptide/hydropeptide-training-guide-2024.md:506`); «Экстра-омолаживающий пилинг на основе специального обновляющего комплекса 5X, пептидов и энзимов» (`brands/hydropeptide/hydropeptide-metodichka.md:328`)
 - **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:369`; привязка: карточка домашних салфеток, стр. PDF 12) 
   > Water, Lactobacillus/Pumpkin Fruit Ferment Filtrate, Glycerin, Pentylene Glycol, Aloe Barbadensis Leaf Juice, Vaccinium Myrtillus Fruit Extract, Saccharum Officinarum (Sugar Cane) Extract, Propanediol, Hydroxyacetophenone, Polyglyceryl-3, Polyglyceryl-4, Polyglyceryl-6 Caprylate, Polyglyceryl-6 Ricinoleate, Butylene Glycol, Caprylic/Capric Triglyceride, Benzyl Alcohol, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Copper PCA, Glucosamine HCl, Rhodosorus Marinus Extract, Salicylic Acid, Citric Acid, Leuconostoc/Radish Root Ferment Filtrate, Citrus Limon (Lemon) Peel Extract, Acer Saccharum (Sugar Maple) Extract, Glycolic Acid, Lactic Acid, Citrus Paradisi (Grapefruit) Fruit Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Camellia Sinensis Leaf Extract, Urea, Mucor Miehei Extract, Chamomilla Recutita (Matricaria) Flower Extract, Citrus Aurantifolia (Lime) Peel Extract, Citrus Aurantium Bergamia (Bergamot) Fruit Extract, Citrus Nobilis (Mandarin Orange) Fruit Extract, Citrus Tangerina (Tangerine) Peel Extract, Barosma Betulina Leaf Extract, Vanilla Planifolia Fruit Extract, Vitis Vinifera (Grape) Fruit Extract, Juniperus Virginia Wood Extract, Musa Sapientum (Banana) Fruit Extract, Prunus Armeniaca (Apricot) Fruit Extract, Pyrus Malus (Apple) Fruit Extract, Ananas Sativus (Pineapple) Fruit Extract, Butter Extract, Cocos Nucifera (Coconut) Fruit Extract, Coffea Arabica (Coffee) Leaf/Seed Extract, Cucumis Melo (Melon) Fruit Extract, Fragaria Chiloensis (Strawberry) Fruit Extract, Prunus Amygdalus Dulcis (Sweet Almond) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Allantoin, Niacinamide, Sodium Hyaluronate, Dextran, Eucalyptus Globulus Leaf Extract, Palmitoyl Tripeptide-8
@@ -152,14 +153,26 @@
 - **Ключевые активы:** EN: колонки таблицы сдвинуты — не разобрано, см. `brands/hydropeptide/hydropeptide-training-guide-2024.md:506`
 - **Назначение (показания, RU):** для любого типа кожи с признаками фото– и хроностарения;; для кожи с постакне-явлениями (поствоспалительная, посттравматическая пигментация, рубцы). (`brands/hydropeptide/hydropeptide-metodichka.md:341`)
 - **Ограничения:** противопоказания — см. `knowledge/contraindications.md`, раздел «5X Power Peel»
-- **Источник:** `brands/hydropeptide/hydropeptide-training-guide-2024.md:506`, `brands/hydropeptide/hydropeptide-metodichka.md:326`, `brands/hydropeptide/metodichka-s-protokolami.md:410`, `brands/hydropeptide/hydropeptide-metodichka.md:2816`
+- **Источник:** `brands/hydropeptide/hydropeptide-training-guide-2024.md:506`, `brands/hydropeptide/hydropeptide-metodichka.md:326`, `brands/hydropeptide/hydropeptide-metodichka.md:2816`
+
+### 5X Power Peel — профессиональная форма
+
+- **Бренд:** HydroPeptide
+- **Форма:** профессиональная — «5X Power Peel … Объем: 118,3 мл (проф)» (`brands/hydropeptide/metodichka-s-protokolami.md:410`); пилинг в процедурах — «5X Power Peel – пористая, жирная, пигментированная, с выраженными фото-повреждениями» (`brands/hydropeptide/metodichka-s-protokolami.md:1277`)
+- **Тип:** профессиональный пилинг — карточка в `metodichka-s-protokolami.md` перемешана, описание не разобрано
+- **INCI:** INCI нет в источнике. Состав домашних салфеток (`brands/hydropeptide/hydropeptide-metodichka.md:369`) на эту форму **не переносить**.
+- **Ключевые активы:** нет данных (карточка перемешана)
+- **Назначение:** в процедурах — «пористая, жирная, пигментированная, с выраженными фото-повреждениями» (`brands/hydropeptide/metodichka-s-protokolami.md:1277`)
+- **Ограничения:** противопоказания — см. `knowledge/contraindications.md`, раздел «5X Power Peel» (для профессиональной формы читаем только список из «Правил проведения процедур», строка 1279; карточка — НЕ ВОССТАНОВЛЕНО)
+- **Соотношение с Intense 5X Power Peel** (в Training Guide отмечен «Pro Only», `brands/hydropeptide/hydropeptide-training-guide-2024.md:530`) — нет данных, это может быть другой продукт.
+- **Источник:** `brands/hydropeptide/metodichka-s-protokolami.md:410`, `brands/hydropeptide/metodichka-s-protokolami.md:1277`
 
 ### Vitamin C Peel 1
 
 - **Бренд:** HydroPeptide
 - **Тип:** Exfoliators & Peels / коллекция: Pro Solutions (`brands/hydropeptide/hydropeptide-training-guide-2024.md:506`); RU (оглавление методички): «(1 ступень) (30 мл / 118,3 мл)» (`brands/hydropeptide/hydropeptide-metodichka.md:2812`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:277`; привязка: по составу (аскорбат, бикарбонат натрия); pH в INCI не указан) 
-  > Peg-8, Glycerin, Sodium Bicarbonate, Jojoba Esters, Cetearyl Alcohol, Propanediol, Cetyl Alcohol, Zeolite, Polysorbate 20, Polysorbate 60, Limonene, Tocopherol, Citrus Aurantium Dulcis (Orange) Peel Oil, Synthetic Beeswax, Magnesium Ascorbyl Phosphate, 1,2 Hexandiol, Caprylyl Glycol, Fragrance, Retinyl Palmitate, Citral, Linalool, Tropolone, Geraniol. 17
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:277`; привязка: по составу (аскорбат, бикарбонат натрия); pH в INCI не указан) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
+  > Peg-8, Glycerin, Sodium Bicarbonate, Jojoba Esters, Cetearyl Alcohol, Propanediol, Cetyl Alcohol, Zeolite, Polysorbate 20, Polysorbate 60, Limonene, Tocopherol, Citrus Aurantium Dulcis (Orange) Peel Oil, Synthetic Beeswax, Magnesium Ascorbyl Phosphate, 1,2 Hexandiol, Caprylyl Glycol, Fragrance, Retinyl Palmitate, Citral, Linalool, Tropolone, Geraniol.
 - **Ключевые активы:** EN: колонки таблицы сдвинуты — не разобрано, см. `brands/hydropeptide/hydropeptide-training-guide-2024.md:506`
 - **Назначение:** в карточке таблица перемешана или карточки нет — не разобрано; упоминания: `brands/hydropeptide/hydropeptide-metodichka.md:274`, `brands/hydropeptide/metodichka-s-protokolami.md:339`, `brands/hydropeptide/hydropeptide-metodichka.md:2812`, `brands/hydropeptide/hydropeptide-training-guide-2024.md:477`
 - **Ограничения:** противопоказания — см. `knowledge/contraindications.md`, раздел «Vitamin C Peel 1»
@@ -189,7 +202,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Exfoliators & Peels / коллекция: Pro Solutions (`brands/hydropeptide/hydropeptide-training-guide-2024.md:530`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:306`; привязка: по составу (молочная + яблочная кислоты)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:306`; привязка: по составу (молочная + яблочная кислоты)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water, Lactic Acid, Malic Acid, Glycerin, Butylene Glycol, Propylene Glycol, Hydroxyethylcellulose, Gluconolactone, Sodium Hydroxide, Sodium Benzoate, Vaccinium Myrtillus Fruit Extract, Pyrus Malus (Apple) Fruit Extract, Cucumis Sativus (Cucumber) Fruit Extract, Arctostaphylos Uva Ursi Leaf Extract, Camellia Oleifera Leaf Extract, Pseudoalteromonas Ferment Extract, Chamomilla Recutita (Matricaria) Flower Extract, Polyquaternium-10, Saccharum Officinarum (Sugar Cane) Extract, Acer Saccharinum (Sugar Maple) Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Hydrolyzed Wheat Protein, Hydrolyzed Soy Protein, Citrus Medica Limonum (Lemon) Fruit Extract, Phenoxyethanol, Caprylyl Glycol, Acetyl Hexapeptide-8, Xanthan Gum, Lecithin, Potassium Sorbate, Tripeptide-10 Citrulline, Carbomer, Triethanolamine, Tripeptide-1
   - pH (из той же строки): 3
 - **Ключевые активы:** EN: колонки таблицы сдвинуты — не разобрано, см. `brands/hydropeptide/hydropeptide-training-guide-2024.md:530`
@@ -201,7 +214,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Exfoliators & Peels / коллекция: Pro Solutions (`brands/hydropeptide/hydropeptide-training-guide-2024.md:506`); RU (оглавление методички): «Нежный обновляющий гель-пилинг с черникой (118,3 мл)» (`brands/hydropeptide/hydropeptide-metodichka.md:2835`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1204`; привязка: по составу (миндальная + молочная кислоты)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1204`; привязка: по составу (миндальная + молочная кислоты)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water, Glycerin, Mandelic Acid, Lactic Acid, Sorbitol, Polysorbate 20, Sodium PCA, Hydroxyethylcellulose, Methyl Gluceth-20, Arginine, Butylene Glycol, Carrageenan, Leuconostoc/Radish Root Ferment Filtrate, Panthenol, Caprylyl Glycol, Acacia Senegal Gum, Xanthan Gum, Globularia Cordifolia Callus Culture Extract, Ethylhexylglycerin, Vaccinium Angustifolium (Blueberry) Fruit Extract, Triethyl Citrate, Sodium Hyaluronate, Caprylic/Capric Triglyceride, Citrus Aurantium Dulcis (Orange) Fruit Extract, Dextran, Palmitoyl Tripeptide-8, Alcohol, Rubus Idaeus (Raspberry) Fruit Extract, Vaccinium Angustifolium (Blueberry) Fruit Extract, Vanilla Planifolia Fruit Extract, Coffea Arabica (Coffee) Leaf/Seed Extract, Gardenia Florida Flower Extract, Jasminum Officinale (Jasmine) Flower/Leaf Extract, Lavandula Angustifolia (Lavender) Flower/Leaf/Stem, Prunus Armeniaca (Apricot) Fruit Extract, Pyrus Malus (Apple) Fruit Extract, Vitis Vinifera (Grape) Fruit Extract, Acetyl Hexapeptide-37
   - pH (из той же строки): 3
 - **Ключевые активы:** EN: колонки таблицы сдвинуты — не разобрано, см. `brands/hydropeptide/hydropeptide-training-guide-2024.md:506`
@@ -213,7 +226,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Exfoliators & Peels / коллекция: Pro Solutions (`brands/hydropeptide/hydropeptide-training-guide-2024.md:506`); «Медовый пилинг с тройной обновляющей силой фитиновой кислоты, протеаз и энзимов» (`brands/hydropeptide/hydropeptide-metodichka.md:1732`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1814`; привязка: по составу (Honey, Phytic Acid)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1814`; привязка: по составу (Honey, Phytic Acid)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Glycerin, Polyglyceryl-6 Stearate, Honey, Water, Caprylic/Capric Triglyceride, Polyglyceryl-6 Behenate, Glyceryl Caprylate, Vaccinium Myrtillus Fruit/Leaf Extract, Phytic Acid, Lactobacillus/Pumpkin Ferment Extract, Saccharum Officinarum (Sugar Cane) Extract, Aminopeptidase, Protease, Glucosamine HCl, Fragrance, Glyceryl Undecylenate, Tocopherol, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Fruit Extract, Propylene Glycol, Acer Saccharum (Sugar Maple) Extract, Retinyl Palmitate, Mucor Miehei Extract, Urea, Carica Papaya (Papaya) Fruit Extract, Honey Extract, Sodium Citrate, Potassium Sorbate, Sodium Benzoate, Disodium EDTA
   - pH (из той же строки): 4
 - **Ключевые активы:** EN: колонки таблицы сдвинуты — не разобрано, см. `brands/hydropeptide/hydropeptide-training-guide-2024.md:506`
@@ -275,7 +288,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Masks / коллекция: Calm (`brands/hydropeptide/hydropeptide-training-guide-2024.md:655`); RU (оглавление методички): «Восстанавливающая и питающая маска с черникой для чувствительной и куперозной кожи (15 мл / 177,44 мл)» (`brands/hydropeptide/hydropeptide-metodichka.md:2836`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1204`; привязка: по pH 5.5 карточки) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1204`; привязка: по pH 5.5 карточки) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water, Bentonite, Magnesium Aluminum Silicate, Glyceryl Stearate, Ricinus Communis (Castor) Seed Oil, Glycerin, Cetyl Alcohol, Stearic Acid, Hydrogenated Castor Oil, Propanediol, Glyceryl Caprylate, Butylene Glycol, Dimethicone, Leuconostoc/Radish Root Ferment Filtrate, Panthenol, Titanium Dioxide, 1,2-Hexanediol, Caprylyl Glycol, Kaolin, Globularia Cordifolia Callus Culture Extract, Carrageenan, Butyrospermum Parkii (Shea) Butter, Glyceryl Undecylenate, Vanilla Planifolia Fruit Extract, Lecithin, Vaccinium Angustifolium (Blueberry) Fruit Extract, Triethyl Citrate, Montmorillonite, Sodium Hyaluronate, Mica, Caprylic/Capric Triglyceride, Citric Acid, Dextran, Palmitoyl Tripeptide-8, Citrus Aurantium Dulcis (Orange) Fruit Extract, Alcohol, Rubus Idaeus (Raspberry) Fruit Extract, Coffea Arabica (Coffee) Leaf/Seed Extract, Gardenia Florida Flower Extract, Jasminum Officinale (Jasmine) Flower/Leaf Extract, Lavandula Angustifolia (Lavender) Flower/Leaf/Stem, Prunus Armeniaca (Apricot) Fruit Extract, Pyrus Malus (Apple) Fruit Extract, Vitis Vinifera (Grape) Fruit Extract, Acetyl Hexapeptide-37
   - pH (из той же строки): 5.5
 - **Ключевые активы:** EN: Calming Peptides anti-inflammatory support Hydration- Balancing Peptides water loss reduction Blueberry & Vanilla Extracts redness reduction & antioxidant defense (`brands/hydropeptide/hydropeptide-training-guide-2024.md:663`); texture: Cream
@@ -312,7 +325,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Masks / коллекция: Clarify (`brands/hydropeptide/hydropeptide-training-guide-2024.md:655`); RU (оглавление методички): «идеального тона кожи (15 мл / 177,44 мл)» (`brands/hydropeptide/hydropeptide-metodichka.md:2906`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1609`; привязка: по составу (каолин, бентонит) и pH 4.5) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1609`; привязка: по составу (каолин, бентонит) и pH 4.5) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water, Glycerin, Kaolin, Bentonite, Propanediol, Simmondsia Chinensis (Jojoba) Seed Oil, Sucrose Cocoate, Lactic Acid, Olea Europaea (Olive) Fruit Oil, Xanthan Gum, Glyceryl Stearate, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Methyl Gluceth-20, Glyceryl Caprylate, Fragrance, Tocopheryl Acetate, Punica Granatum Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Dimethicone, Leuconostoc/Radish Root Ferment Filtrate, Panthenol, Caprylyl Glycol, 1,2-Hexanediol, Sodium Hydroxide, Pseudoalteromonas Ferment Extract, Butyrospermum Parkii (Shea) Butter, Echinacea Angustifolia Meristem Cell Culture, Benzyl Benzoate, Aminopeptidase, Protease, Iron Oxide (CI 77491), Glyceryl Undecylenate, Hexapeptide-11, Hydrolyzed Wheat Protein, Hydrolyzed Soy Protein, Limonene, Phenoxyethanol, Linalool, Butylene Glycol, Lecithin, Tripeptide-10 Citrulline, Carbomer, Acetyl Tetrapeptide-22, Triethanolamine, Tripeptide-1
   - pH (из той же строки): 4.5
 - **Ключевые активы:** EN: 2% Lactic Acid texture refinement Anti-Stress Peptides barrier resilience & stability Kaolin Clay detoxification & oil control (`brands/hydropeptide/hydropeptide-training-guide-2024.md:663`); texture: Cream
@@ -324,7 +337,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Masks / коллекция: Pro Solutions (`brands/hydropeptide/hydropeptide-training-guide-2024.md:679`); «Торфяная детокс маска» (`brands/hydropeptide/hydropeptide-metodichka.md:1772`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1816`; привязка: по составу (Peat)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1816`; привязка: по составу (Peat)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water, Propanediol, Peat, Kaolin, Bentonite, Glycerin, Magnesium Aluminum Silicate, Xanthan Gum, Benzyl Alcohol, Phytic Acid, Tetrasodium Glutamate Diacetate, Caprylyl Glycol, Ethylhexylglycerin, Camellia Oleifera Leaf Extract, Coffea Arabica (Coffee) Fruit Extract, Lecithin, Lepidium Sativum Sprout Extract
   - pH (из той же строки): 4
 - **Ключевые активы:** EN: Kaolin & Bentonite Clays clarifying & oil balance support Phytic Acid texture refinement & cell turnover enhancement Peat purifying & barrier protective support (`brands/hydropeptide/hydropeptide-training-guide-2024.md:687`); texture: Cream Clay
@@ -516,7 +529,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Booster Treatments / коллекция: Clarify (`brands/hydropeptide/hydropeptide-training-guide-2024.md:812`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1609`; привязка: по составу (Colloidal Sulfur 3%)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1609`; привязка: по составу (Colloidal Sulfur 3%)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Active Ingredients: Colloidal Sulfur 3% Inactive Ingredients: 4-T-Butylcyclohexanol, Arginine, Carrageenan, Cellulose Gum, Citrus Grandis (Grapefruit) Peel Oil, Epilobium Angustifolium Flower/Leaf/Stem Extract, Lactic Acid, Leuconostoc/Radish Root Ferment Filtrate, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Niacinamide, Pentylene Glycol, Phenoxyethanol, Rice Ferment (Sake) Filtrate, Sodium Hydroxide, Water, Xanthan Gum
   - pH (из той же строки): 4.5
 - **Ключевые активы:** EN: 3% Colloidal Sulfur anti-blemish support 2.5% Lactic Acid texture refinement Soothing Peptides anti-inflammatory & barrier support (`brands/hydropeptide/hydropeptide-training-guide-2024.md:820`); texture: Serum
@@ -559,7 +572,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Moisturizers / коллекция: Calm (`brands/hydropeptide/hydropeptide-training-guide-2024.md:898`); RU (оглавление методички): «**ПРЕПАРАТЫ ANTI-WRINKLE+ RESTORE**» (`brands/hydropeptide/hydropeptide-metodichka.md:2839`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1261`; привязка: по составу (кокосовое и авокадо масла)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1261`; привязка: по составу (кокосовое и авокадо масла)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Cocos Nucifera (Coconut) Oil, Persea Gratissima (Avocado) Oil, Glycine Soja (Soybean) Oil, Olea Europaea (Olive) Fruit Oil, Cera Alba (Beeswax), Stearyl Behenate, Glyceryl Caprylate, Caprylic/Capric Triglyceride, Oleyl Alcohol, Tocopheryl Acetate, Tocopherol, Hydrogenated Soybean Oil, Zanthoxylum Bungeanum Fruit Extract, Bisabolol, Glyceryl Undecylenate, Citrus Aurantium Dulcis (Orange) Fruit Extract, Citrus Limon (Lemon) Peel Extract, Cucumis Sativus (Cucumber) Fruit Extract, Jasminum Officinale (Jasmine) Flower/Leaf Extract, Vanilla Planifolia Fruit Extract, Glyceryl Stearate, Limonene, Helianthus Annuus (Sunflower) Extract, Oryza Sativa (Rice) Bran Extract, Rosemarinus Officinalis (Rosemary) Leaf Extract, Linalool, Arnica Montana Flower Extract, Amyl Cinnamal (Amyl Cinnamic Aldehyde), Citral
   - pH (из той же строки): N/A
 - **Ключевые активы:** EN: Organic Coconut Oil & Avocado Oil barrier support & deep moisturization Arnica anti-inflammatory & wound healing support Bisabolol easing of sensitization (`brands/hydropeptide/hydropeptide-training-guide-2024.md:906`); texture: Balm
@@ -571,7 +584,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Moisturizers / коллекция: Restore (`brands/hydropeptide/hydropeptide-training-guide-2024.md:898`); «Комплекс восстанавливающих масел обогащенный фитонутриентами» (`brands/hydropeptide/hydropeptide-metodichka.md:1424`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1492`; привязка: по составу (масла) и порядку на стр. 35) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1492`; привязка: по составу (масла) и порядку на стр. 35) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Helianthus Annuus (Sunflower) Seed Oil, Carthamus Tinctorius (Safflower) Seed Oil, Caprylic/Capric Triglyceride, Cucurbita Pepo (Pumpkin) Seed Oil, Olea Europaea (Olive) Fruit Oil, Persea Gratissima (Avocado) Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Calo- phyllum Inophyllum Seed Oil, Oryza Sativa (Rice) Bran Extract, Helianthus Annuus (Sunflower) Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Tocopherol, Lavandula Angustifolia (Lavender) Oil, Linalool, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Citronellol, Anthemis Nobilis Flower Oil, Pelargonium Graveolens Flower Oil, Cananga Odorata Flower Oil, Tetrahexyldecyl Ascorbate, Zea Mays (Corn) Oil, Geraniol, Beta-Carotene, Limonene, Benzyl Benzoate, Benzyl Salicylate, Citral, Farnesol, Eugenol, Benzyl Alcohol
   - pH (из той же строки): N/A
 - **Ключевые активы:** EN: Sunflower Oil moisture retention & anti-inflammatory support Jojoba Oil collagen & cell turnover support Tamanu Oil antioxidant defense & DNA damage reduction (`brands/hydropeptide/hydropeptide-training-guide-2024.md:906`); texture: Oil
@@ -595,7 +608,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** «Ультра-увлажняющая и регенерирующая мист-эссенция для моментального сияния кожи» (`brands/hydropeptide/hydropeptide-metodichka.md:1335`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1370`; привязка: на стр. 33 две INCI; эта отнесена к Optimist по порядку — требует сверки) ⚠️ **может быть неполным** — не использовать для проверки аллергии:
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1370`; привязка: на стр. 33 две INCI; эта отнесена к Optimist по порядку — требует сверки) ⚠️ **может быть неполным** — не использовать для проверки аллергии: ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Aqua, Cetyl Ethylhexanoate, Dipropylene Glycol, 1,2-Hexanediol, Sodium Chloride, Argania Spinosa Kernel Oil, Camellia Japonica Seed Oil, Simmondsia Chinensis (Jojoba) Seed Oil, Polyglyceryl-10 Laurate, Helianthus Annuus (Sunflower) Seed Oil, Butylene Glycol, Ethylhexylglycerin, Codium Tomentosum Extract, Enteromorpha Compressa Extract, Gelidium Cartilagineum Extract, Laminaria Japonica Extract, Macrocystis, Pyrifera (Kelp) Extract, Alkanna Tinctoria Root Extract, Adansonia Digitata Fruit Extract, Eq- uisetum Arvense Extract, Olea Europaea (Olive) Leaf Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Diethylhexyl, Sodium Sulfosuccinate, Nymphaea Alba Flower Extract, Sophora Japonica Root Extract, Xylitylglucoside, Anhydroxylitol, Tocopherol, Xylitol, Glucose, Disodium EDTA, Fragrance, Linalool. pH N/A
 - **Ключевые активы:** нет данных
 - **Назначение (показания, RU):**  (`brands/hydropeptide/hydropeptide-metodichka.md:1346`)
@@ -607,7 +620,7 @@
 - **Бренд:** HydroPeptide
 - **Тип:** «Увлажняющий мист для лица с защитным барьером от искусственного излучения» (`brands/hydropeptide/hydropeptide-metodichka.md:1867`)
 - **Объём / pH (RU):** 100 мл / pH 5.5 (`brands/hydropeptide/hydropeptide-metodichka.md:1884`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1898`; привязка: по составу (Withania Somnifera)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1898`; привязка: по составу (Withania Somnifera)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water, Peg-16 Macadamia Glycerides, Betaine, Glycerin, Fructose, Withania Somnifera Root Extract, 1,2-Hexanediol, Sodium Benzoate, Tetrasodium Glutamate Diacetate, Potassium Sorbate, Allantoin, Citric Acid, Xanthan Gum, Biosaccharide Gum-4
   - pH (из той же строки): 5.5
 - **Ключевые активы:** нет данных
@@ -631,7 +644,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** RU (оглавление методички): «Лифтинг-флюид для контура глаз с увлажняющим действием (15 мл / 15 мл)» (`brands/hydropeptide/hydropeptide-metodichka.md:2838`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1261`; привязка: по pH 5.0 и объёму 15 мл карточки) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1261`; привязка: по pH 5.0 и объёму 15 мл карточки) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water, Glycerin, Caprylic/Capric Triglyceride, Propanediol, Butylene Glycol, Dimethicone, Honey, Cetearyl Alcohol, Argania Spinosa Kernel Extract, Sodium Lactate, Carbomer, PPG-2 Myristyl Ether Propionate, Xanthan Gum, Glyceryl Stearate, Oenothera Biennis (Evening Primrose) Oil, Gluconolactone, Ethylhexyl Stearate, Leuconostoc/Radish Root Ferment Filtrate, Panthenol, Caprylyl Glycol, Polysorbate 60, Cetearyl Olivate, Phenoxyethanol, Sodium Benzoate, Sodium Cocoyl Glutamate, Sorbitan Olivate, Allantoin, Bisabolol, Hydrolyzed Hyaluronic Acid, Sodium Hyaluronate, Camellia Oleifera Leaf Extract, Citrus Grandis (Grapefruit) Fruit Extract, Ethylhexylglycerin, Vitis Vinifera (Grape) Seed Extract, Limonene, Calendula Officinalis Flower Extract, Glutathione, Phytic Acid, Tocopheryl Acetate, Polyglyceryl-4 Diisostearate/Polyhydroxyst Earate/Sebacate, Sodium Hyaluronate Crosspolymer, Sodium Isostearate, Citrus Limon (Lemon) Peel Oil, Alcohol, Citral, Acetyl Tetrapeptide-5, Myristoyl Tripeptide-31
   - pH (из той же строки): 5
 - **Ключевые активы:** нет данных
@@ -689,7 +702,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Lip Treatments / коллекция: Restore (`brands/hydropeptide/hydropeptide-training-guide-2024.md:1007`); «Интенсивно регенерирующая и увлажняющая маска для губ» (`brands/hydropeptide/hydropeptide-metodichka.md:1457`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1494`; привязка: по составу (масла ши и какао)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:1494`; привязка: по составу (масла ши и какао)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Bis-Diglyceryl Polyacyladipate-2, Butyrospermum Parkii (Shea) Butter, Theobroma Cacao (Cocoa) Seed Butter, Beeswax, Euphorbia Cerifera (Candelilla) Wax, Cocos Nucifera (Coconut) Oil, Jojoba Esters, Helianthus Annuus (Sunflower) Seed Wax, Caprylic/Capric Triglyceride, Water, Cetearyl Ethylhexanoate, Simmondsia Chinensis (Jojoba) Seed Oil, Persea Gratissima (Avocado) Oil, Limnanthes Alba (Meadowfoam) Seed Oil, Octyldodecanol, Fragrance, Acacia Decurrens Flower Wax, Polyglycerin-3, Stevia Rebaudiana Leaf Extract, Irvingia Gabonensis Kernel Butter, Sorbitan Isostearate, Hydrogenated Coco-Glycerides, Phenethyl Alcohol, Portulaca Pilosa Extract, Tocopherol, Ethylhexylglycerin, Sucrose Cocoate, Palmitoyl Tripeptide-38
   - pH (из той же строки): N/A
 - **Ключевые активы:** EN: Shea & Cocoa Butters enhanced skin resilience & moisture loss prevention Volumizing Peptides plumping & firming support Avocado & Jojoba Oils nourishment & calming antioxidant defense (`brands/hydropeptide/hydropeptide-training-guide-2024.md:1015`); texture: Balm
@@ -745,7 +758,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Sun Protection / коллекция: Protect (`brands/hydropeptide/hydropeptide-training-guide-2024.md:1055`); «Увлажняющий и успокаивающий крем для лица без тонального эффекта SPF 50» (`brands/hydropeptide/hydropeptide-metodichka.md:2005`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2071`; привязка: по активным фильтрам (ZnO 7%, TiO2 3% — совпадает с Training Guide)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2071`; привязка: по активным фильтрам (ZnO 7%, TiO2 3% — совпадает с Training Guide)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Active Ingredients: Titanium Dioxide (3%), Zinc Oxide (7%) Inactive Ingredients : 1,2-Hexanediol, Allantoin, Alumina, Biotin, Butylene Glycol, C12-15 Alkyl Benzoate, Calendula Officinalis Flower Extract, Camellia Oleifera Leaf Extract, Caprylyl Glycol, Caprylyl Methicone, Cetyl Alcohol, Chamomilla Recutita (Matricaria) Flower Extract, Citric Acid, Cucumis Sativus (Cucumber) Fruit Extract, Cyclomethicone, Cyclopentasiloxane, Dimethicone, Disodium Edta, Ethylhexyl Palmitate, Euterpe Oleracea Fruit Extract, Glycerin, Glyceryl Caprylate, Glyceryl Stearate, Glyceryl Undecylenate, Hydrolyzed Yeast Protein, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Kaempferia Galanga Root Extract, Lauryl Peg-9 Polydimethylsiloxyethyl Dimethicone, Niacinamide, Panthenol, Peg-100 Stearate, Pentylene Glycol, Polyhydroxystearic Acid, Polysorbate 60, Propanediol, Propylene Glycol, Pyridoxine Hcl, Saccharomyces Cerevisiae Extract, Sodium Citrate, Sodium Hyaluronate, Sodium Pca, Thermus Thermophilus Ferment, Triethoxycaprylylsilane, Triethoxysilylethyl Polydimethylsiloxyethyl Hexyl Dimethicone, Water, Xanthan Gum
   - pH (из той же строки): 7.5
 - **Ключевые активы:** EN: Zinc Oxide (7%) Titanium Dioxide (3%) KEY INGREDIENTS Venuceane™ collagen support Hyaluronic Acid plumping & hydration Galanga Root clarity & oil balance (`brands/hydropeptide/hydropeptide-training-guide-2024.md:1065`); texture: Cream
@@ -757,7 +770,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** «Водостойкий минеральный спрей для лица и тела с увлажняющим и антиоксидантным действием SPF 30» (`brands/hydropeptide/hydropeptide-metodichka.md:2033`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2087`; привязка: по активному фильтру (ZnO 12%)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2087`; привязка: по активному фильтру (ZnO 12%)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Active Ingredients: Zinc Oxide (12%), Inactive Ingredients: Water (AQUA), Coco-Caprylate, Helianthus Annus (Sunflower) Seed Oil, Butyloctyl Salicylate, Aloe Barbadensis Leaf Juice, Methyl Dihydroabietate, Styrene/Acrylates, Copolymer, Cetearyl Alochol, Carthamus Tinctorius (Safflower) Seed Oil, Glyceryl Caprylate, Coco-Glucoside, Triethoxycarylsilane, Bentonite, Glycerin, Microcrystalline Cellulose, Caprylhydroxamic, Acid, Tocopherol, Sodium Hylauronate, Cellulose Gum
   - pH (из той же строки): 7.8
 - **Ключевые активы:** нет данных
@@ -769,7 +782,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** Sun Protection / коллекция: Protect (`brands/hydropeptide/hydropeptide-training-guide-2024.md:1055`); «Увлажняющий водостойкий спрей для тела SPF 30» (`brands/hydropeptide/hydropeptide-metodichka.md:2097`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2173`; привязка: по фильтрам (Avobenzone и др. — совпадает с Training Guide)) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2173`; привязка: по фильтрам (Avobenzone и др. — совпадает с Training Guide)) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Active Ingredients: Avobenzone (3%), Homosalate (10%), Octisalate (5%), Octocrylene (7%) Inactive Ingredients: Alcohol Denat., Aloe Barbadensis Leaf Juice, Ananas Sativus (Pineapple) Fruit Extract, Beta Carotene, Butter Extract, Butylene Glycol, Camellia Sinensis Leaf Extract, Caprylic/Capric Triglyceride, Citral, Citrus Aurantium Dulcis (Orange) Peel Extract, Citrus Aurantium Dulcis (Orange) Peel Oil, Citrus Limon (Lemon) Peel Extract, Citrus Limon (Lemon) Peel Oil, Citrus Paradisi (Grapefruit) Fruit Extract, Cocos Nucifera (Coconut) Fruit Extract, Coffea Arabica (Coffee) Leaf/Seed Extract, Cucumis Sativus (Cucumber) Fruit Extract, Glycerin, Hydrolyzed Yeast Protein, Limonene, Linalool, Methyl Dihydroabietate, Pentylene Glycol, Pichia/Resveratrol Ferment Extract, Prunus Armeniaca (Apricot) Fruit Extract, Pyrus Communis (Pear) Fruit Extract, Pyrus Malus (Apple) Fruit Extract, Rosa Canina Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Thermus Thermophilus Ferment, Tocopherol, Vanilla Planifolia Fruit Extract, Zea Mays (Corn) Oil
   - pH (из той же строки): N/A
 - **Ключевые активы:** RU: 177 мл, КЛЮЧЕВЫЕ ХАРАКТЕРИСТИКА МЕХАНИЗМ ДЕЙСТВИЯ КОМПОНЕНТЫ (`brands/hydropeptide/hydropeptide-metodichka.md:2145`) · EN: Homosalate (10%), Octocrylene (7%), Octisalate (5%), Avobenzone (3%) KEY INGREDIENTS Venuceane™ collagen support Organic Sun Blockers UV protection Aloe Vera hydration & soothing support (`brands/hydropeptide/hydropeptide-training-guide-2024.md:1065`); texture: Mist
@@ -793,7 +806,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** «Легкое питательное масло для тела с эффектом мерцания» (`brands/hydropeptide/hydropeptide-metodichka.md:2122`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2175`; привязка: по составу (масла) и порядку на стр. 48) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2175`; привязка: по составу (масла) и порядку на стр. 48) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Isopropyl Palmitate, Caprylic/Capric Triglyceride, Helianthus Annuus (Sunflower) Seed Oil, C12-15 Alkyl Benzoate, Glycine Soja (Soybean) Oil, PPG-10 Butanediol, Isododecane, Isostearyl Alcohol, Butylene Glycol Cocoate, Silica, Simmondsia Chinensis (Jojoba) Seed Oil, Polysilicone-31, Oleyl Lactate, Vegetal Squalane, Tocopheryl (Vitamin E) Acetate, Tetrahexyldecyl Ascorbate, Ethyl Cellulose, Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Extract, Camellia Sinensis Leaf Extract, Pyrus Malus (Apple) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract, Santalum Album (Sandalwood) Wood Extract, Rose Extract, Elettaria Cardamomum Seed Extract, Cucumis Melo Cantalupensis Fruit Extract, Camellia Sinensis Leaf Extract, Salvia Officinalis (Sage) Leaf Extract, Rosmarinus Officinalis (Rosemary) Leaf Extract, Cucumis Sativus (Cucumber) Fruit Extract, Plumeria Rubra Flower Extract, Vanilla Planifolia Fruit Extract, Jasminum Officinale (Jasmine) Flower/Leaf Extract, Fucus Vesiculosus Extract, Citrus Aurantium Bergamia (Bergamot) Fruit Extract, Cupressus Sempervirens Leaf/Stem Extract, Prunus Persica (Peach) Fruit Extract, Coriandrum Sativum (Coriander) Fruit/Leaf Extract, Calcium Sodium Borosilicate, Mica (CI 77019), Tin Oxide (CI 77861), Titanium Dioxide (CI 77891), Iron Oxide (CI 77491), Phenethyl Alcohol, Caprylyl Glycol, Ethylhexyl Glycerin, Linalool, Hydroxycitronellal, Amyl Cinnamal (Amyl Cinnamic Aldehyde), BHT
   - pH (из той же строки): N/A
 - **Ключевые активы:** RU: 177 мл, КЛЮЧЕВЫЕ ХАРАКТЕРИСТИКА МЕХАНИЗМ ДЕЙСТВИЯ КОМПОНЕНТЫ (`brands/hydropeptide/hydropeptide-metodichka.md:2145`)
@@ -805,7 +818,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** «Укрепляющий увлажняющий крем с подтягивающим и антицеллюлитным действием» (`brands/hydropeptide/hydropeptide-metodichka.md:2286`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2328`; привязка: по составу (кофеин) и порядку на стр. 51) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2328`; привязка: по составу (кофеин) и порядку на стр. 51) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water (Aqua), Cetearyl Olivate, Sorbitan Olivate, Leuconostoc/Radish Root Ferment Filtrate (Raphanus Sativus Root Extract) (Peptide Preservative), Lactobacillus Ferment (Peptide Preservative), Propanediol, Populus Tremuloides Bark Extract, Organic Extra Virgin Cocos Nucifera (Coconut) Oil, Glycerin, Glyceryl Stearate, C12-15 Alkyl Benzoate, Caprylic/Capric Triglyceride, Glyceryl Dilaurate, Alcohol, Butylene Glycol, Cetyl Hydroxyethylcellulose, Rutin, Palmitoyl Tripeptide-1 (Lifting Peptide), Palmitoyl Tetrapeptide-7 (Lifting Peptide), Phaseolus Lunatus (Green Bean) Extract, Hydrogenated Lecithin, Sodium Oleate, Oligopeptide-68 (Brightening Peptide), Arctostaphylos Uva-Ursi (Bearberry) Leaf Extract, Magnesium Ascorbyl Phosphate, Siegesbeckia Orientalis Extract, Sesamum Indicum (Sesame) Seed Oil, Menthyl Lactate, Stearic Acid, Soybean (Glycine Soja) Oil, Sorbitan Sesquioleate, Isohexadecane, Hydroxypropyl Starch Phosphate, Sclerotium Gum, Laurdimonium Hydroxypropyl Hydrolyzed Soy Protein (Moisture-Binding Peptide), Acetyl Hexapeptide-39 (Anti-Cellulite Peptide), Glucosamine HCL, Pisum Sativum (Pea) Extract, Bambusa Vulgaris Extract, Tetrahexyldecyl Ascorbate (Vitamin C), Inositol, Ceramide III, Niacinamide, Caffeine, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Buty- rospermum Parkii (Shea) Butter, Theobroma Cacao (Cocoa) Seed Butter, Glyceryl Caprylate, Glyceryl Undecylenate, Sodium Hyaluronate, Camellia Oleifera (Japanese Green Tea) Leaf Extract, Euterpe Oleracea (Acai) Pulp Oil, Glycyrrhiza Glabra (Licorice) Root Extract, Phyllanthus Emblica Fruit Extract, Hydrocotyl (Centella Asiatica) Extract, Citrus Limon (Lemon) Peel Extract, Citrus Aurantium Dulcis (Orange) Peel Extract, Citrus Aurantium Dulcis (Orange) Fruit Extract, Gardenia Tahitensis Flower Extract, Cucumis Sativus (Cucumber) Fruit Extract, Disodium EDTA, Xanthan Gum, Limonene, Citral, Linalool, Benzyl Alcohol, Hydroxycitronellal
   - pH (из той же строки): 5.5
 - **Ключевые активы:** нет данных
@@ -817,7 +830,7 @@
 
 - **Бренд:** HydroPeptide
 - **Тип:** «Средство для укрепления и роста ресниц и бровей» (`brands/hydropeptide/hydropeptide-metodichka.md:2247`)
-- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2326`; привязка: по составу (пептиды, биотин) и порядку на стр. 51) 
+- **INCI** (`brands/hydropeptide/hydropeptide-metodichka.md:2326`; привязка: по составу (пептиды, биотин) и порядку на стр. 51) ⚠️ **привязка не подтверждена источником, для проверки аллергии не использовать**
   > Water, Glycerin, Citrus Limon (Lemon) Peel Extract, Hydroxyethylcellulose, 1,2-Hexanediol, Caprylyl Glycol, Disodium Phosphate, Disodium EDTA, Myristoyl Pentapeptide-17, Phenoxyethanol, Sodium Phosphate, Biotin, Glycine Soja (Soybean) Oil, Methylisothi- azolinone, Sodium Hyaluronate, Sodium Oleate, Hydrogenated Lecithin, Tropolone, Myristoyl Hexapeptide-16, Octapeptide-2, Sodium Hydroxide, Folic Acid
   - pH (из той же строки): 7.4
 - **Ключевые активы:** нет данных
@@ -873,7 +886,7 @@
 - **Ключевые активы:** нет данных
 - **Назначение:** в карточке таблица перемешана или карточки нет — не разобрано; упоминания: `brands/hydropeptide/hydropeptide-training-guide-2024.md:237`
 - **Ограничения:** противопоказаний в источниках нет — нет данных
-- **Источник:** нет
+- **Источник:** `brands/hydropeptide/hydropeptide-training-guide-2024.md:237` (только упоминание в списке коллекции Calm; описания нет — в рекомендациях не использовать)
 
 ### Souffle Mask
 
@@ -908,12 +921,12 @@
 ### Purifying Mask
 
 - **Бренд:** HydroPeptide
-- **Тип:** нет данных
+- **Тип:** маска (профессиональная, используется в протоколах)
 - **INCI:** INCI нет в источнике
 - **Ключевые активы:** нет данных
-- **Назначение:** в карточке таблица перемешана или карточки нет — не разобрано
+- **Назначение:** «на выход», выравнивает рельеф, ботулоподобное действие, эффект «полированной кожи» (`brands/hydropeptide/metodichka-s-protokolami.md:1311`) — формулировки бренда; «ботулоподобное действие» — ⚠️ маркетинг, не факт. В протоколах: `brands/hydropeptide/metodichka-s-protokolami.md:1052`, `:1072`, `:1198`. В Esthetics Guide 2019 есть пометка «(Ранее: Purifying Mask)» (`brands/hydropeptide/esthetics-guide-updates-2019-rassylka.md:174`) — к какому продукту она относится, по MD не определить.
 - **Ограничения:** противопоказаний в источниках нет — нет данных
-- **Источник:** нет
+- **Источник:** `brands/hydropeptide/metodichka-s-protokolami.md:1311`, `brands/hydropeptide/metodichka-s-protokolami.md:1052`
 
 ### Perfecting Body Lift
 
@@ -973,7 +986,7 @@
 - **Ключевые активы:** нет данных
 - **Назначение:** в карточке таблица перемешана или карточки нет — не разобрано; упоминания: `brands/hydropeptide/hydropeptide-training-guide-2024.md:1114`
 - **Ограничения:** противопоказаний в источниках нет — нет данных
-- **Источник:** нет
+- **Источник:** `brands/hydropeptide/hydropeptide-training-guide-2024.md:1114` (EN; карточка перемешана; ключевые компоненты — строки 1117–1119). ⚠️ БАД, а не косметика: в прайсе клиники не упоминается — в рекомендациях не использовать без решения клиники.
 ## md:complex / md:peel / md:ceuticals
 
 Источник: каталог `brands/mdcomplex/md-complex-peel-genx-a5-web.md` (RU). INCI в каталоге **нет ни для одного продукта** — ниже приводится только «СОСТАВ» из каталога (перечень активов, не INCI). Описания ингредиентов в каталоге часто обрываются на полуслове (колонки вёрстки) — такие места не дописывались.
@@ -984,7 +997,7 @@
 - **Тип:** мезотерапевтический коктейль (GenX)
 - **INCI:** INCI нет в источнике
 - **Состав (каталог):** таблица перемешана — **НЕ ВОССТАНОВЛЕНО**. Фрагменты: «тетрапептид-7», «Гиалуроновая кислота, биоревитализирующий комплекс (витамины, коферменты, аминоксилоты, минералы, нуклеиновые кислоты, антиоксиданты), трипептид меди-1, SH олигопептид-1, SH олигопептид-2, SH полипептид-1, SH полипептид-2, олигопептид-34, ацетил октапептид-3, пальмитоил трипептид-1, пальмитоил…» (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:21`)
-- **Назначение:** фрагмент «Фото- и хроностарение кожи лица и тела средней и тяжелой степени, ухудшение роста и выпадение волос, подготовка кожи к аппаратному омоложению, пилингу, нитевому лифтингу, пластической [операции] и восстановление после них» — собрано из разрезанных ячеек (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:23`), **требует сверки**
+- **Назначение:** фрагмент «Фото- и хроностарение кожи лица и тела средней и тяжелой степени, ухудшение роста и выпадение волос, подготовка кожи к аппаратному омоложению, пилингу, нитевому лифтингу, пластической [операции] и восстановление после них» — собрано из разрезанных ячеек (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:23`), **требует сверки** ⚠️ **маркетинг, не факт**: «ухудшение роста и выпадение волос» и в каталоге «Усиливает рост существующих и стимулирует рост новых волос» (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:23`) — утверждения производителя о росте волос, не подтверждены (`rules/KNOWN_ISSUES.md`).
 - **Ключевые активы:** см. «Состав»; пояснения к ингредиентам в каталоге — маркетинговые описания производителя, обрываются
 - **Ограничения:** противопоказаний в источнике нет — нет данных (`knowledge/contraindications.md`, раздел «Средства md:complex / md:peel»)
 - **Источник:** `brands/mdcomplex/md-complex-peel-genx-a5-web.md:21`–25
@@ -1054,7 +1067,7 @@
 - **INCI:** INCI нет в источнике
 - **Состав (каталог, не INCI):** Глутатион, цистеин, аргинин, метионин, таурин, декспантенол (ви- тамин B5), пиридоксин (витамин B6), биотин (витамин B7), тиамин (витамин B1), цинк, гинкго билоба, центелла азиатская (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:90`)
 - **Форма выпуска:** 5 флаконов Коктейль для улучшения роста волос по 7 мл (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:86`)
-- **Назначение (показания, каталог):** Алопеция различного генеза (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:90`)
+- **Назначение (показания, каталог):** Алопеция различного генеза (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:90`) ⚠️ **маркетинг, не факт**: «Алопеция различного генеза» — медицинское показание в каталоге производителя, не подтверждено; клиенту как показание не называть.
 - **Ключевые активы:** см. «Состав»; пояснения к ингредиентам в каталоге — маркетинговые описания производителя, обрываются
 - **Ограничения:** противопоказаний в источнике нет — нет данных (`knowledge/contraindications.md`, раздел «Средства md:complex / md:peel»)
 - **Источник:** `brands/mdcomplex/md-complex-peel-genx-a5-web.md:84`–93
@@ -1078,7 +1091,7 @@
 - **INCI:** INCI нет в источнике
 - **Состав (каталог, не INCI):** Салициловая кислота, азелоглицин, комплекс витаминов группы В (В2 (рибофлавин), В5 (декспантенол), В6 (пиридоксин)), метионин, экстракт корня лопуха большого, экстракт шалфея лекарственного, экстракт цве- тов крапивы, гликозаминогликаны, экстракт цветов ромашки аптечной (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:112`)
 - **Форма выпуска:** 5 флаконов Очищающий и антисеборейный коктейль по 7 мл (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:108`)
-- **Назначение (показания, каталог):** Угревая болезнь 1-2 степени, профилактика и терапия высыпаний в предменструальный период, а также в перименопаузе, возрастные изменения жирной и комбинированной кожи лица, уход за жирной кожей головы, антисептический и успокаивающий уход после чистки (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:112`)
+- **Назначение (показания, каталог):** Угревая болезнь 1-2 степени, профилактика и терапия высыпаний в предменструальный период, а также в перименопаузе, возрастные изменения жирной и комбинированной кожи лица, уход за жирной кожей головы, антисептический и успокаивающий уход после чистки (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:112`) ⚠️ **маркетинг, не факт**: «Угревая болезнь 1-2 степени» — медицинское показание в каталоге производителя, не подтверждено; клиенту как показание не называть.
 - **Ключевые активы:** см. «Состав»; пояснения к ингредиентам в каталоге — маркетинговые описания производителя, обрываются
 - **Ограничения:** противопоказаний в источнике нет — нет данных (`knowledge/contraindications.md`, раздел «Средства md:complex / md:peel»)
 - **Источник:** `brands/mdcomplex/md-complex-peel-genx-a5-web.md:106`–115
@@ -1216,7 +1229,7 @@
 - **Состав (каталог):** нет данных
 - **Форма выпуска:** туба с помпой 50 мл (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:261`)
 - **Назначение:** нет данных (показаний в карточке нет)
-- **Ключевые активы (выделены в каталоге):** растительных стволовых клеток, эпидермальных факторов роста, гиалуроновой кислоты (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:255`–262)
+- **Ключевые активы (выделены в каталоге):** растительных стволовых клеток, эпидермальных факторов роста, гиалуроновой кислоты (`brands/mdcomplex/md-complex-peel-genx-a5-web.md:255`–262) ⚠️ **маркетинг, не факт**: «растительные стволовые клетки» и «эпидермальные факторы роста» — заявления каталога, состав (INCI) в источнике не приведён, наличие не подтверждено.
 - **Ограничения:** противопоказаний в источнике нет — нет данных (`knowledge/contraindications.md`, раздел «Средства md:complex / md:peel»)
 - **Источник:** `brands/mdcomplex/md-complex-peel-genx-a5-web.md:255`–262
 
