@@ -1,0 +1,189 @@
+# Противопоказания
+
+> Противопоказания к пилингам, средствам и процедурам — **дословно**, с источником. Если текст в источнике нечитаем — «НЕ ВОССТАНОВЛЕНО, требуется оригинал от клиники». Если источники расходятся — приведены все варианты. Ассистент не объединяет и не сокращает списки сам: при расхождении показывает все варианты.
+>
+> **Правила:** ничего не додумано; нет в источнике → «нет данных». Ссылка `путь:строка` указывает на строку в сыром источнике (папки `devices/`, `brands/`, `clinic/`, `textbooks/`). Уровни доверия к источникам — `rules/source-hierarchy.md`, известные проблемы — `rules/KNOWN_ISSUES.md`.
+
+> ⚠️ Сверка с PDF не проводилась. Английские цитаты из `hydropeptide-training-guide-2024.md` взяты из таблиц с перемешанными колонками: продукт определён по описанию в той же строке таблицы (указано), где текст разрезан на две ячейки — он склеен, это помечено.
+
+## Оглавление
+
+- [Пилинги HydroPeptide](#пилинги-hydropeptide)
+- [Другие средства HydroPeptide](#другие-средства-hydropeptide)
+- [Средства md:complex / md:peel](#средства-mdcomplex--mdpeel)
+- [Процедуры из прайса](#процедуры-из-прайса)
+- [Аппарат M17 (фотографирование)](#аппарат-m17-фотографирование)
+- [Анкета клиента (Esthetics Guide 2019)](#анкета-клиента-esthetics-guide-2019)
+
+## Пилинги HydroPeptide
+
+### Pumpkin Peel
+
+**Вариант 1 — `metodichka-s-protokolami.md`, «Правила проведения процедур»:**
+- «Беременность, кормление грудью, аллергия на аспирин, чувствительная кожа, солнечные ожоги. Запрещено использование ретинола в течение 3 дней до и после пилинга.» — `brands/hydropeptide/metodichka-s-protokolami.md:1269`
+
+**Вариант 2 — `metodichka-s-protokolami.md`, карточка продукта:** таблица перемешана. Читаемые фрагменты (порядок и полнота не гарантированы):
+- «Аллергия на аспирин, чувствительная кожа, солнечные ожоги. Запрещено использование ретинола в» — `brands/hydropeptide/metodichka-s-protokolami.md:395`
+- «Во время беременности использовать с осторожностью, так как сочетание салициловой кислоты и пептида Гра[нактив Акне…]» — `brands/hydropeptide/metodichka-s-protokolami.md:395`
+- Полный текст карточки: **НЕ ВОССТАНОВЛЕНО, требуется оригинал от клиники.**
+
+**Вариант 3 — Esthetics Guide 2019** (абзац под пометкой «*ПРОТИВОПОКАЗАНИЯ ДЛЯ PUMPKIN PEEL» — отнесён к Pumpkin Peel по порядку сносок `brands/hydropeptide/esthetics-guide-updates-2019-rassylka.md:410`; требует сверки):
+- «Не рекомендован лицам з красными угрями или чувствительной кожей. Не рекомендован беременным, кормящим матерям, или клиентам с аллергией на ацетилсалициловую кислоту. Те, кто в настоящее время проходит лечение угревой болезни (по рецепту врача, или без него) или принимают ретинол / витамин А, должны прервать прием лекарств на 3 дня до и после прохождения процедур. В течение 48 часов после пилинга следует воздерживаться от умеренной и интенсивной деятельности или воздействия тепла, например, не посещать сауну, чтобы избегать потения. Не рекомендуется клиентам с витилиго.» — `brands/hydropeptide/esthetics-guide-updates-2019-rassylka.md:416`
+
+**Вариант 4 — Training Guide 2024 (EN)** (продукт определён по описанию «multiple exfoliants and pumpkin extract» в той же таблице; текст склеен из двух ячеек):
+- «Pregnancy, nursing, aspirin allergy, sensitivity, sunburn, open or inflamed acne and the use of retinols of any kind, acne treatments, recent resurfacing procedures, and the use» + «of Accutane (in the past 12 months).» — `brands/hydropeptide/hydropeptide-training-guide-2024.md:486`
+
+> Расхождение: вариант 1 — ретинол за 3 дня до и после; вариант 3 — ретинол/витамин А и лечение акне за 3 дня до и после, витилиго, красные угри; вариант 4 — ретинолы любого вида, открытые/воспалённые акне, недавние шлифовки, Аккутан за 12 месяцев. **Решает косметолог.**
+
+### Blueberry Peel
+
+- «Противопоказания: Аллергия на орехи.» — `brands/hydropeptide/metodichka-s-protokolami.md:1271` _(«Правила проведения процедур»)_
+- «Противопоказания: Аллергия на орехи.» — `brands/hydropeptide/metodichka-s-protokolami.md:403` _(карточка продукта)_
+- «Содержит миндальную кислоту, полученную из горького миндаля. Аллергия на миндаль. В случае сильной аллергии следует проконсультироваться с врачом или отказаться от использования средства. В случае незначительной аллергии можно выполнить тест наложением пластыря с небольшим количеством аллергена сбоку на […] шею и подождать 7-10 минут, чтобы определить, появилось ли раздражение.» — `brands/hydropeptide/esthetics-guide-updates-2019-rassylka.md:418` _(Esthetics Guide 2019, абзац под пометкой «**ПРОТИВОПОКАЗАНИЯ ДЛЯ BLUEBERRY PEEL»; окончание фразы стоит выше в файле — `brands/hydropeptide/esthetics-guide-updates-2019-rassylka.md:414`)_
+- «Nut allergy (Bitter Almond)» — `brands/hydropeptide/hydropeptide-training-guide-2024.md:468` _(Training Guide 2024; продукт определён по тексту «GENTLY REJUVENATING BLUEBERRY PEEL» в той же таблице)_
+
+> Расхождение в формулировке: «аллергия на орехи» / «аллергия на миндаль» / «Nut allergy (Bitter Almond)».
+
+### 5X Power Peel
+
+В источниках есть профессиональная и домашняя (салфетки) формы; к какой форме относится каждый список — указано, как в источнике.
+
+- «Противопоказания: Беременность, лактация, аллергия на аспирин.» — `brands/hydropeptide/metodichka-s-protokolami.md:1279` _(«Правила проведения процедур», пилинг в процедуре)_
+- «Беременность, лактация, аллергия на аспирин.» — `brands/hydropeptide/metodichka-s-protokolami.md:410` _(карточка «5X Power Peel», 118,3 мл проф; таблица перемешана, привязка по строке)_
+- «Аллергия на аспирин. Во время беременности использовать с осторожностью, так как сочетание» — `brands/hydropeptide/metodichka-s-protokolami.md:424` _(стр. PDF 26 — карточка 5X Power Peel, 30 салфеток; окончание фразы потеряно — **НЕ ВОССТАНОВЛЕНО, требуется оригинал от клиники.**)_
+- «нарушение целостности кожного покрова; активный воспалительный процесс на коже; ретиноевый дерматит на фоне применения топических препаратов, прием системных ретиноидов (не ранее, чем через 4 недели с момента прекращения терапии).» — `brands/hydropeptide/hydropeptide-metodichka.md:347`–349 _(hydropeptide-metodichka, 5X Power Peel — домашние салфетки)_
+- «Pregnancy, nursing, aspirin allergy.» — `brands/hydropeptide/hydropeptide-training-guide-2024.md:452` _(Training Guide 2024; продукт определён по тексту «leave-on peel pads… blend of 5 exfoliators»)_
+
+> Расхождение: только в `hydropeptide-metodichka.md` — нарушение целостности кожи, воспаление, ретиноевый дерматит, системные ретиноиды (4 недели); в остальных — беременность, лактация, аллергия на аспирин.
+
+### Vitamin C Peel 1
+
+нет данных в источниках. Противопоказания в явном виде не найдены ни в одном файле. Не выводить их из состава или из других пилингов.
+
+### Apple Peel 1
+
+нет данных в источниках. Противопоказания в явном виде не найдены ни в одном файле. Не выводить их из состава или из других пилингов.
+
+### Peel 2
+
+нет данных в источниках. Противопоказания в явном виде не найдены ни в одном файле. Не выводить их из состава или из других пилингов.
+
+### Extra Strength Peel 2
+
+нет данных в источниках. Противопоказания в явном виде не найдены ни в одном файле. Не выводить их из состава или из других пилингов.
+
+### Honey Tri-Zyme Peel
+
+нет данных в источниках. Противопоказания в явном виде не найдены ни в одном файле. Не выводить их из состава или из других пилингов.
+
+### Intense 5X Power Peel
+
+нет данных в источниках. Противопоказания в явном виде не найдены ни в одном файле. Не выводить их из состава или из других пилингов.
+
+### Triple Acid Peptide Peel
+
+нет данных в источниках. Противопоказания в явном виде не найдены ни в одном файле. Не выводить их из состава или из других пилингов.
+
+### Polish & Plump Peel
+
+нет данных в источниках. Противопоказания в явном виде не найдены ни в одном файле. Не выводить их из состава или из других пилингов.
+
+## Другие средства HydroPeptide
+
+### Purifying Cleanser
+
+- «Противопоказания: Беременность, кормление грудью, аллергия на аспирин или орехи.» — `brands/hydropeptide/metodichka-s-protokolami.md:1249` _(«Правила проведения процедур», после Purifying Cleanser)_
+- «Аллергия на аспирин или орехи. Во время беременности использовать с осторожностью, так как сочетание салициловой кислоты и пептида Гранактив Акне, при [нестабильном гормональном фоне,] теоретически может вызвать […]» — `brands/hydropeptide/metodichka-s-protokolami.md:298` _(карточка, таблица перемешана — **НЕ ВОССТАНОВЛЕНО, требуется оригинал от клиники.**)_
+- «Pregnancy, nursing, aspirin allergy.» — `brands/hydropeptide/hydropeptide-training-guide-2024.md:381` _(Training Guide 2024; продукт определён по тексту «pore-refining cleanser… left on for 5 minutes as a clarifying facial mask»)_
+
+### Exfoliating Cleanser
+
+- «NB! Не рекомендовано для чувствительной, куперозной кожи и кожи с множественными воспалительными элементами.» — `brands/hydropeptide/hydropeptide-metodichka.md:250`
+- «Не рекомендуется при повышенной чувствительности кожи.» — `brands/hydropeptide/metodichka-s-protokolami.md:1249`
+
+### Redefining Serum
+
+- «Противопоказания: Беременность, кормление грудью, аллергия на аспирин.» — `brands/hydropeptide/metodichka-s-protokolami.md:1303` _(«Правила проведения процедур»)_
+- «на аспирин. Во время беременности осторожностью, так как сочетание салициловой кислоты и пептида Гранактив Акне, при фоне, теоретически может вызвать» — `brands/hydropeptide/metodichka-s-protokolami.md:474` _(карточка, таблица перемешана — **НЕ ВОССТАНОВЛЕНО, требуется оригинал от клиники.**)_
+
+### AquaBoost
+
+- «Pregnancy, nursing, aspirin allergy.» — `brands/hydropeptide/hydropeptide-training-guide-2024.md:891` _(Training Guide 2024; продукт определён по тексту «OIL-FREE MOISTURIZER… oily or acneic skin»)_
+- «на аспирин. Во время беременности сочетание салициловой кислоты и пептида Гранактив Акне, при фоне, теоретически может вызвать» — `brands/hydropeptide/metodichka-s-protokolami.md:784` _(карточка AquaBoost, таблица перемешана — **НЕ ВОССТАНОВЛЕНО, требуется оригинал от клиники.**)_
+
+### Clear Rescue
+
+- «Pregnancy, nursing, aspirin allergy.» — `brands/hydropeptide/hydropeptide-training-guide-2024.md:724` _(Training Guide 2024; продукт определён по тексту «SKIN-REFINING SERUM + 0.5% SALICYLIC ACID»)_
+
+### Liquid Resurfacing Solution
+
+- «Pregnancy, nursing, aspirin allergy.» — `brands/hydropeptide/hydropeptide-training-guide-2024.md:790` _(Training Guide 2024; продукт определён по тексту «leave-on exfoliant… 2% salicylic acid»)_
+
+### Retinol Routine Booster
+
+- «Do not use retinol products if you are pregnant or nursing, taking» + «prescription acne medication, or in conjunction with waxing, chemical peels, or resurfacing procedures. Always use a high, broad-spectrum sunscreen when using this product.» — `brands/hydropeptide/hydropeptide-training-guide-2024.md:760` _(Training Guide 2024; текст склеен из двух ячеек; продукт — «1% RETINOL SOLUTION»)_
+
+### Nimni Cream
+
+- «беременность; лактация; прием системных ретиноидов.» — `brands/hydropeptide/hydropeptide-metodichka.md:1113`–1115
+- «Do not use retinol products if you are pregnant or nursing, taking» + «prescription acne medication, or in conjunction with waxing, chemical peels, or resurfacing procedures. Always use a high, broad-spectrum sunscreen when using this product.» — `brands/hydropeptide/hydropeptide-training-guide-2024.md:770` _(Training Guide 2024; продукт определён по размерам 0.5 FL OZ & 1.7 FL OZ; текст склеен)_
+
+### Nimni Day Cream
+
+- «Может применяться как ночной крем вместо Nimni Cream в случае плохой переносимости ретинола или наличии противопоказаний к его применению.» — `brands/hydropeptide/hydropeptide-metodichka.md:1167` _(это не противопоказание Nimni Day Cream, а указание на замену Nimni Cream)_
+
+### Retinol Eye Renewal
+
+- «Do not use retinol products if you are pregnant or nursing, taking» + «prescription acne medication, or in conjunction with waxing, chemical peels, or resurfacing procedures. Always use a high, broad-spectrum sunscreen when using this product.» — `brands/hydropeptide/hydropeptide-training-guide-2024.md:931` _(Training Guide 2024; продукт — «0.65% Universal Tri-Retinol Complex… eye balm»; текст склеен)_
+
+### Остальные продукты HydroPeptide
+
+Противопоказания в источниках не найдены — **нет данных**. Общая фраза бренда «Косметические препараты … можно использовать в период беременности и лактации» (`brands/hydropeptide/hydropeptide-metodichka.md:146`) — рекламное утверждение (см. `rules/KNOWN_ISSUES.md`), **не использовать как разрешение**.
+
+## Средства md:complex / md:peel
+
+В каталоге (`brands/mdcomplex/md-complex-peel-genx-a5-web.md`), листе каталога (`brands/mdcomplex/41012-professional-catalogue-mdcomplex-exosomes.md`) и досье (`brands/mdcomplex/mdcomplex-exosomes-polynucleotides-technical-dossier.md`) противопоказаний **нет** ни для одного продукта — **нет данных в источниках**. Показания в каталоге есть, но показания — не противопоказания. Требуется инструкция производителя от клиники.
+
+## Процедуры из прайса
+
+Прайс (`clinic/dermathey-prays-2026-apparaty-ukhod.md`) противопоказаний не содержит. Для процедур ниже противопоказания **в источниках клиники не указаны — требуется документ от клиники**. Учебники для противопоказаний не используются (правило `rules/source-hierarchy.md`).
+
+- **ЛАЗЕРНАЯ ЭПИЛЯЦИЯ / ПО ЗОНАМ / ЖЕНЩИНЫ*** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:7`)
+- **НОВИНКА! ЛАЗЕРНАЯ ЭПИЛЯЦИЯ И МОЛОЖЕНИЕ НА АППАРАТЕ SCITON** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:32`)
+- **ЛАЗЕРНАЯ ЭПИЛЯЦИЯ / КОМПЛЕКСНОЕ РЕШЕНИЕ / ЖЕНЩИНЫ*** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:39`)
+- **ЛАЗЕРНАЯ ЭПИЛЯЦИЯ / ПО ЗОНАМ / МУЖЧИНЫ*** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:65`)
+- **ЛАЗЕРНОЕ УДАЛЕНИЕ ПИГМЕНТНЫХ ПЯТЕН (тариф за сеанс)** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:89`)
+- **ЛАЗЕРНОЕ УДАЛЕНИЕ СОСУДОВ (тариф за сеанс)** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:100`)
+- **ДЕТАТУАЖ ЛАЗЕРОМ (тариф за сеанс)** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:111`)
+- **ФРАКЦИОННОЕ ОМОЛОЖЕНИЕ КОЖИ, ЛЕЧЕНИЕ ЛЮБЫХ ВИДОВ РУБЦОВ, в том числе постакне и растяжек (тариф за сеанс)** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:125`)
+- **НЕХИРУРГИЧЕСКАЯ БЛЕФАРОПЛАСТИКА С ПОМОЩЬЮ ТЕХНОЛОГИИ НИЗКОТЕМПЕРАТУРНАЯ ПЛАЗМА (тариф за сеанс)*** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:141`)
+- **ПРОЦЕДУРА ИГОЛЬЧАТОГО РАДИОВОЛНОВОГО (RF) ЛИФТИНГА НА АППАРАТЕ VIVACE*** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:152`)
+- **BBL FOREVER YOUNG / ФОТООМОЛОЖЕНИЕ НА АППАРАТЕ SCITON** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:213`)
+- **MOXI – ЛАЗЕРНАЯ РЕВИТАЛИЗАЦИЯ НА АППАРАТЕ SCITON** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:236`)
+- **SKIN TYTE / РЕМОДЕЛИРОВАНИЕ КОЖИ И ЛИФТИНГ БЕЗ ХИРУРГИИ НА АППАРАТЕ SCITON *** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:267`)
+- **ФОТОБИОМОДУЛЯЦИЯ / LED ТЕРАПИЯ НА АППАРАТЕ MILTA**** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:311`)
+- **КЛЕТОЧНЫЙ ДЕТОКС И РЕГЕНЕРАЦИЯ НА АППАРАТЕ HELEO **** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:318`)
+- **СКУЛЬПТУРИРУЮЩИЙ МАССАЖ И ЛИМФОДРЕНАЖ НА АППАРАТЕ BEAUTYLIZER **** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:327`)
+- **СТИМУЛЯЦИЯ МЫШЦ И СЖИГАНИЕ ЖИРА НА АППАРАТЕ INSHAPE (тариф за сеанс)**** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:335`)
+- **МИКРОНИДЛИНГ**** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:346`)
+- **ХИМИЧЕСКАЯ РЕВИТАЛИЗАЦИЯ / БИОРЕВИТАЛИЗИРУЮЩИЕ ПИЛИНГИ* PEPPERMINTPEEL / JALUPRO GLOW PEEL / BIOREPEELCL3** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:360`)
+- **ГЛУБОКОЕ ОЧИЩЕНИЕ КОЖИ ЛИЦА (ЧИСТКА КОЖИ)**** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:368`)
+- **ГЛУБОКОЕ ОЧИЩЕНИЕ КОЖИ ТЕЛА (ЧИСТКА КОЖИ)**** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:374`)
+- **МИКРОТОКОВАЯ ТЕРАПИЯ*** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:380`)
+- **МАССАЖ ЛИЦА (ЛЮБАЯ ТЕХНИКА)**** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:386`)
+- **УХОДОВЫЕ ПРОЦЕДУРЫ ДЛЯ ЛИЦА HYDROPEPTIDE (США)**** — нет данных (`clinic/dermathey-prays-2026-apparaty-ukhod.md:394`)
+- **Уходы HydroPeptide из прайса** («ВЕКТОРНЫХ ЛИФТИНГ», «ВРЕМЯ ВСПЯТЬ», «КРИОЛИФТ», «МОМЕНТАЛЬНОЕ ПРЕОБРАЖЕНИЕ», «ЭГОИСТ», «МОМЕНТАЛЬНОЕ ОСВЕТЛЕНИЕ», «ЧЕРНИЧНАЯ НЕГА», «ЧЕРНИЧНЫЙ ЛИМОНАД», «ОРАНЖЕВАЯ СВЕЖЕСТЬ», «ЛЁД И ПЛАМЯ») — противопоказаний процедуры в источниках нет. Противопоказания **средств**, которые входят в протокол (например, Pumpkin Peel), — в разделах выше; автоматически переносить их на процедуру нельзя, решает косметолог.
+
+## Аппарат M17 (фотографирование)
+
+- «People who are allergic to fluorescent lights or UV light sources should stop taking pictures.» — `devices/m17/m17-user-manual.md:289` _(п. 2.4)_
+- «Use with caution in cases of light sensitivity.» — `devices/m17/m17-user-manual.md:294` _(п. 2.6 Contraindicated population)_
+- «Eyes open during photo taking leads to blinding phenomenon.» — `devices/m17/m17-user-manual.md:287` _(п. 2.3)_
+- «If opening your eyes while taking a photo causes glare, just close your eyes in time.» — `devices/m17/m17-user-manual.md:969` _(п. 9.2)_
+
+## Анкета клиента (Esthetics Guide 2019)
+
+Это не противопоказания к конкретной процедуре, а перечень состояний из формы информированного согласия. Клиент сообщает о них косметологу:
+
+- «Перед началом терапии я рассказал / рассказала обо всех состояниях моего здоровья, которые могут послужить противопоказанием для прохождения лечения, таких как: беременность или кормление грудью (в таком случае, перед началом лечения проконсультируйтесь с вашим лечащим врачом и избегайте средств, содержащих салициловую кислоту), недавние пластические операции, аллергические реакции, склонность к простому герпесу / герпетической лихорадке, использование лекарственных средств для наружного применения и / или рецептурных средств для приема внутрь, таких как: Третиноин, Ретин-А, Изотретиноин, Аккутан, Дифферин, Тазорак, Аваж, ЭпиДуо или Зиана.» — `brands/hydropeptide/esthetics-guide-updates-2019-rassylka.md:2679`
+- «Несмотря на то, что альфа-и бета-оксикислоты не противопоказаны для применения при дермапланинге, следует соблюдать осторожность. Эти средства не рекомендованы клиентам с чувствительной кожей.» — `brands/hydropeptide/esthetics-guide-updates-2019-rassylka.md:1978` _(дермапланинг)_
