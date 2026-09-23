@@ -1,6 +1,8 @@
 # Вопросы к клинике
 
-Всё, что нельзя решить по MD-файлам без оригиналов PDF или без решения клиники. Подробности и номера строк — в `KNOWN_ISSUES.md`.
+> Ответы клиники вносить сюда; после ответа обновить `knowledge/` и `rules/KNOWN_ISSUES.md`.
+
+Всё, что нельзя решить по MD-файлам без оригиналов PDF или без решения клиники. Подробности и номера строк — в `rules/KNOWN_ISSUES.md`.
 
 ## Прайс (`clinic/dermathey-prays-2026-apparaty-ukhod.md`)
 
@@ -36,7 +38,7 @@
 
 ## Протоколы HydroPeptide
 
-13. **Протокол «ЭГОИСТ» / Re-Fueling Men's Facial** описан в трёх файлах по-разному: пилинг 1 (Apple Peel 1 или Vitamin C Peel 1), маска (Miracle Mask 10–15 мин / Miracle Mask 7–10 мин / Purifying Mask 7–10 мин), средство для экстракции, порядок финальных шагов, губы. **Какая версия действует в клинике?**
+13. **Протокол «ЭГОИСТ» / Re-Fueling Men's Facial** описан в **четырёх** источниках по-разному (Men's Facial EN, `hydropeptide-metodichka.md`, `metodichka-s-protokolami.md`, Esthetics Guide 2019): пилинг 1 (Apple Peel 1 или Vitamin C Peel 1), очищение (Exfoliating Cleanser или Cleansing Gel), маска (Miracle Mask 10–15 мин / 7–10 мин или Purifying Mask), порядок финальных шагов, губы. Сравнение — `knowledge/protocols.md`, раздел 1. **Какая версия действует в клинике?**
 14. **Противопоказания к пилингам.** В главной методичке их нет; в «методичке с протоколами» карточки нечитаемы, а читаемый список расходится с Esthetics Guide 2019 (аллергия на орехи или на миндаль; купероз; ретиноиды; лечение акне). Какой список официальный?
 15. Какой из файлов по HydroPeptide считать **актуальным источником**: гайд 2024 (EN), `hydropeptide-metodichka.md`, `metodichka-s-protokolami.md` или Esthetics Guide 2019? Остальные — в архив?
 16. **Дозировки** «1/12 ч/л», «1/24 ч/л» и «⅛ tsp.» — есть ли у клиники версия в мл?
